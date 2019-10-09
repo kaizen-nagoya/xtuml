@@ -35,7 +35,7 @@ xtUMLをコンパイルする(Linux編）
 
 
 
-#issue
+# issue
 
 https://xtuml.org/download/
 

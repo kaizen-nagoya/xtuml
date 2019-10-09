@@ -20,12 +20,17 @@ xtUMLを導入する(linux編）未完
 https://qiita.com/kaizen_nagoya/items/297097cc47a6487d9f20
 
 4
+xtUMLをコンパイルする(Windows編）
 未完了未報告。
 
 5
 未完了未報告。
+xtUMLをコンパイルする(Mac編）
+未完了未報告。
 
 6
+未完了未報告。
+xtUMLをコンパイルする(Linux編）
 未完了未報告。
 
 

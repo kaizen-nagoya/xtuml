@@ -43,3 +43,11 @@ https://github.com/xtuml/bridgepoint/blob/master/src/org.xtuml.bp.doc/ReleaseNot
 
 https://github.com/xtuml/bridgepoint/blob/ is missing
 
+# community
+
+Linked in
+
+google hangout
+
+
+

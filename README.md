@@ -38,8 +38,10 @@ xtUMLをコンパイルする(Linux編）
 #issue
 
 https://xtuml.org/download/
+
 release notes on github.　
 https://github.com/xtuml/bridgepoint/blob/master/src/org.xtuml.bp.doc/ReleaseNotes/ReleaseNotes.md
 　404 error
+
 https://github.com/xtuml/bridgepoint/blob/ is missing
 

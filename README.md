@@ -2,32 +2,32 @@
 Summary on how to use xtuml
 
 
-|作業| Windows | Macintosh | Linux |
+|action| Windows | Macintosh | Linux |
 |:---|:---|:---:|---:|
-|実行|1 |2 |3 |
-|コンパイル|4 |5 |6 |
+|do|1 |2 |3 |
+|compile|4 |5 |6 |
 
-1
+1 OK
 xtUMLを導入する(Windows編）
 https://qiita.com/kaizen_nagoya/items/bdafc4b0e90275ce5b8e
 
-2
+2 NG
 xtUMLを導入する(Mac編）未解決
 https://qiita.com/kaizen_nagoya/items/dcb517f5d903ab079ec2
 
-3
+3 NG
 xtUMLを導入する(linux編）未完
 https://qiita.com/kaizen_nagoya/items/297097cc47a6487d9f20
 
-4
+4 not yet
 xtUMLをコンパイルする(Windows編）
 未完了未報告。
 
-5
+5 not yet
 xtUMLをコンパイルする(Mac編）
 未完了未報告。
 
-6
+6 not yet
 xtUMLをコンパイルする(Linux編）
 未完了未報告。
 

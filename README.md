@@ -45,9 +45,9 @@ https://github.com/xtuml/bridgepoint/blob/ is missing
 
 # community
 
-Linked in
+Linked in, joined.
 
-google hangout
+google hangout, joined.
 
-facebook group(Japanese: member only)
+facebook group(Japanese: member only)?, joined.
 

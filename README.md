@@ -16,7 +16,7 @@ xtUMLを導入する(Mac編）未解決
 https://qiita.com/kaizen_nagoya/items/dcb517f5d903ab079ec2
 
 3 NG
-xtUMLを導入する(linux編）未完
+xtUMLを導入する(linux編）
 https://qiita.com/kaizen_nagoya/items/297097cc47a6487d9f20
 
 4 not yet
